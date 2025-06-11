@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Gabriela Moctezuma
 
-<!--
-**Gabymoctezuma/Gabymoctezuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Actualmente estoy trabajando en proyectos de **análisis de datos** con enfoque en impacto social, explorando aplicaciones en periodismo de datos y ciencia ciudadana.
 
-Here are some ideas to get you started:
+🌱 Estoy aprendiendo sobre **análisis técnico de gráficos**, **trading algorítmico** con Python y el uso de APIs financieras como FXCM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Busco colaborar en proyectos relacionados con:
+- Periodismo de datos 📊📰  
+- Visualización interactiva de datos (Streamlit, Power BI, etc.)
+- Aplicaciones de data science para el bien común 💡🌎
+
+🤝 Busco ayudar con:
+- Mejores prácticas en análisis con Python  
+- Despliegue web de proyectos de datos (Streamlit, Render, etc.)
+
+📄 Conoce más sobre mi experiencia profesional en mi [LinkedIn](https://www.linkedin.com/in/gabriela-moctezuma/)
+
+📫 Cómo contactarme: **gabiiimp1@gmail.com**
+
+⚡ Fun fact: Me apasiona combinar la ingeniería, el análisis de datos y el impacto social para crear soluciones con propósito.
+
+---
